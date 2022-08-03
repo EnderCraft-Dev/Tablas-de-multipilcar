@@ -1,0 +1,5 @@
+[VERSION 2.0]
+
+- Features
+1) Added a percentage calculator to measure your level of practice.
+2) Code optimization
