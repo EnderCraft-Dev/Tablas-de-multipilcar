@@ -25,3 +25,8 @@ Ejecútalo
 
 4. El juego terminará auomáticamente al responder todas las preguntas.
 ![image](https://user-images.githubusercontent.com/89426850/182650986-6012edfa-32a5-48b9-ab77-17b57f2aafa0.png)
+
+
+[CHANGELOG-V2.0]
+Se agregó una función que te permite conocer en porcentaje la cantidad de respuestas correctas que diste.
+![image](https://user-images.githubusercontent.com/89426850/182679691-356cdd6f-f3ee-4bd8-8f19-39199bccdea9.png)
