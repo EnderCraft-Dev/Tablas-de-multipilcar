@@ -5,7 +5,7 @@ Juego creado en C++ para el aprendizaje o repaso de las tablas de multiplicar
 
 Cómo jugar:
 
-[PREPARACIÖN]
+[PREPARACIÓN]
 Descarga el archivo Game.exe de la carpeta "COMPILED"
 Ejecútalo
 
